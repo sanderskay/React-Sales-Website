@@ -16,6 +16,7 @@ function App() {
         <Route path="/services" exact component={Services} />
         <Route path="/products" exact component={Products} />
         <Route path="/sign-up" exact component={SignUp} />
+        <Route path="*" exact component={Home} />
       </Switch>
       <Footer />
     </Router>
@@ -23,16 +24,3 @@ function App() {
 }
 
 export default App;
-
-/*TO DO
-
-1. CHANGE INTO PORTFOLIO SITE OR CUSTOM SITE
-2. CHANGE ICONS
-3. CHANGE IMAGES
-4. CHANGE DATA CONTENT
-5. LINK WITH GITHUB
-6. PUT ONLINE
-
-
-
-*/
