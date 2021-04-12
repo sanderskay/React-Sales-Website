@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React-Sales-Website/static/css/main.3b2fd319.chunk.css",
+    "main.js": "/React-Sales-Website/static/js/main.166d1b09.chunk.js",
+    "main.js.map": "/React-Sales-Website/static/js/main.166d1b09.chunk.js.map",
+    "runtime-main.js": "/React-Sales-Website/static/js/runtime-main.19cd1464.js",
+    "runtime-main.js.map": "/React-Sales-Website/static/js/runtime-main.19cd1464.js.map",
+    "static/js/2.15a6faa1.chunk.js": "/React-Sales-Website/static/js/2.15a6faa1.chunk.js",
+    "static/js/2.15a6faa1.chunk.js.map": "/React-Sales-Website/static/js/2.15a6faa1.chunk.js.map",
+    "index.html": "/React-Sales-Website/index.html",
+    "static/css/main.3b2fd319.chunk.css.map": "/React-Sales-Website/static/css/main.3b2fd319.chunk.css.map",
+    "static/js/2.15a6faa1.chunk.js.LICENSE.txt": "/React-Sales-Website/static/js/2.15a6faa1.chunk.js.LICENSE.txt",
+    "static/media/svg-1.48d08d0e.svg": "/React-Sales-Website/static/media/svg-1.48d08d0e.svg",
+    "static/media/svg-5.c614f92c.svg": "/React-Sales-Website/static/media/svg-5.c614f92c.svg",
+    "static/media/svg-7.f9856b25.svg": "/React-Sales-Website/static/media/svg-7.f9856b25.svg",
+    "static/media/svg-8.a5a044be.svg": "/React-Sales-Website/static/media/svg-8.a5a044be.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19cd1464.js",
+    "static/js/2.15a6faa1.chunk.js",
+    "static/css/main.3b2fd319.chunk.css",
+    "static/js/main.166d1b09.chunk.js"
+  ]
+}
